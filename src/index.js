@@ -7,4 +7,5 @@ module.exports = function reverse(n) {
     } else {
         return num;
     }
+        parseInt(num);
 }
